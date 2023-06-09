@@ -1,0 +1,113 @@
+2023-05-23 18:55:47,618 - INFO - book_handler.py:22 - create_book - handler: creating a book
+2023-05-23 18:55:55,828 - INFO - book_handler.py:33 - read_all - Handler: Reading all books
+2023-05-23 18:56:11,117 - INFO - book_handler.py:49 - read_book - Handler: Getting a specific book
+2023-05-23 18:56:35,657 - INFO - book_handler.py:68 - update_book - Handler: Updating books
+2023-05-23 18:56:48,530 - INFO - book_handler.py:79 - delete_book - Handler: Deleting books
+2023-05-23 18:56:56,541 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 10:19:21,520 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 10:19:21,575 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 10:24:17,518 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 10:27:26,413 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 10:41:07,373 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 10:41:08,079 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 11:06:42,489 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 11:08:47,957 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 11:08:48,796 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 11:18:06,818 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 11:18:19,618 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 11:27:48,297 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 11:28:03,973 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 11:29:34,589 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 11:30:45,012 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 11:35:44,803 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 11:43:16,011 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 11:53:53,695 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 12:11:51,344 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 12:18:10,881 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 12:18:55,099 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 12:19:04,221 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 12:19:19,522 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 12:19:37,757 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 12:20:22,737 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 12:27:06,322 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 12:27:16,636 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 12:27:45,132 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 12:29:46,105 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 12:30:41,523 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 12:30:50,962 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 12:31:11,856 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 12:31:16,975 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 12:31:28,027 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 12:53:58,110 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 12:54:32,431 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 12:55:03,527 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 13:53:33,662 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 13:53:44,331 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 13:57:24,632 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 13:58:07,052 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 13:58:22,669 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:00:51,258 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:02:41,238 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:02:41,643 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:03:18,104 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:03:19,161 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:03:25,375 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:05:40,078 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:05:41,058 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:06:41,041 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:07:18,263 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:09:23,749 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:09:34,172 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:14:54,901 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:16:11,660 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:18:34,358 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:19:10,597 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:19:49,853 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:20:05,978 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:20:20,066 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:20:29,164 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:21:23,680 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:21:33,683 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:30:44,301 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:30:51,970 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:32:22,879 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:33:28,210 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:34:23,175 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:34:28,035 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:35:22,511 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:37:00,067 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:37:09,607 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:39:34,809 - INFO - book_handler.py:22 - create_book - handler: creating a book
+2023-05-24 14:42:46,720 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:43:16,004 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:43:33,159 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:43:50,155 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:44:11,683 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:44:48,540 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:45:08,987 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:46:11,424 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:46:21,735 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:46:25,914 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:47:00,609 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:48:49,021 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:57:56,121 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:58:04,060 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:58:21,369 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 14:58:26,819 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 14:59:50,835 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 15:01:00,240 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 15:01:05,941 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 15:04:08,437 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 16:32:32,366 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 16:32:32,679 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 16:32:57,497 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 16:32:57,554 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 16:36:25,439 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 16:39:04,539 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 16:40:48,092 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 16:43:19,074 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 16:43:34,128 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 17:01:02,887 - INFO - book_handler.py:88 - pipeline_agg - Handler: Creating pipeline
+2023-05-24 17:11:04,221 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 17:53:44,549 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-24 18:15:28,009 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
